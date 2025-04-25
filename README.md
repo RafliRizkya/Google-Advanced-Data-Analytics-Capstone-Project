@@ -6,9 +6,7 @@ Employee attrition is a critical concern for companies, especially in competitiv
 
 By understanding the drivers behind employee turnover, HR departments can:
 - Take proactive steps to retain valuable employees.
-- Reduce recruitment and training costs.
-- Improve overall employee satisfaction and engagement.
-- Strategically plan workforce needs in advance.
+- Identify areas for improvement such as burnout factors while establishing minimum project requirements and promotion criteria.
 
 The ultimate goal is to support data-driven decision-making within Human Resources by leveraging machine learning models that predict attrition with high accuracy.
 
